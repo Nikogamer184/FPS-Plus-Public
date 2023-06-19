@@ -39,6 +39,9 @@
 	<set name="BUILD_DIR" value="export/32bit" if="32bit" />
 
 	<classpath name="source" />
+	
+	<!-- Always enables autoplay at the start of songs for easier debugging and testing. -->
+	<define name="demoMode" if="debug" />	
 
 	<assets path="assets/images" />
 	<assets path="assets/data" />
