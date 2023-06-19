@@ -1,50 +1,49 @@
 {
   "dependencies": [
     {
-      "name": "discord_rpc",
-      "type": "git",
-      "dir": null,
-      "ref": "2d83fa8",
-      "url": "https://github.com/Aidan63/linc_discord-rpc"
+      "name": "lime",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": null
     },
     {
       "name": "flixel",
       "type": "haxelib",
-      "version": "4.11.0"
+      "version": null
     },
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": "2.11.0"
+      "version": null
     },
     {
       "name": "flixel-tools",
       "type": "haxelib",
-      "version": "1.5.1"
+      "version": null
     },
     {
       "name": "flixel-ui",
       "type": "haxelib",
-      "version": "2.5.0"
+      "version": null
     },
     {
-      "name": "hscript",
+      "name": "hxcpp",
       "type": "haxelib",
-      "version": "2.5.0"
+      "version": null
     },
     {
-      "name": "hscript-ex",
-      "type": "git",
-      "dir": null,
-      "ref": "6d5e4fa",
-      "url": "https://github.com/ianharrigan/hscript-ex"
+      "name": "tjson",
+      "type": "haxelib",
+      "version": null
     },
     {
-      "name": "newgrounds",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/ZoologistArctic/newgrounds-fnf-test"
+      "name": "hxjsonast",
+      "type": "haxelib",
+      "version": null
     },
     {
       "name": "hxCodec",
@@ -52,41 +51,36 @@
       "version": "2.5.1"
     },
     {
-      "name": "hxcpp",
+      "name": "hscript",
       "type": "haxelib",
-      "version": "4.3.2"
+      "version": null
     },
     {
       "name": "hxcpp-debug-server",
       "type": "haxelib",
-      "version": "1.2.4"
+      "version": null
     },
     {
-      "name": "hxjsonast",
-      "type": "haxelib",
-      "version": "1.1.0"
+      "name": "discord_rpc",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/Aidan63/linc_discord-rpc"
     },
     {
-      "name": "lime",
-      "type": "haxelib",
-      "version": "8.0.1"
+      "name": "hscript-ex",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/ianharrigan/hscript-ex"
     },
+    { "name": "newgrounds", "type": "git", "dir": null, "ref": "main", "url": "https://github.com/ZoologistArctic/newgrounds-fnf-test" },
     {
       "name": "linc_luajit",
       "type": "git",
       "dir": null,
-      "ref": "bcb4254",
+      "ref": "master",
       "url": "https://github.com/nebulazorua/linc_luajit"
-    },
-    {
-      "name": "openfl",
-      "type": "haxelib",
-      "version": "9.2.1"
-    },
-    {
-      "name": "tjson",
-      "type": "haxelib",
-      "version": "1.4.0"
     }
   ]
 }
