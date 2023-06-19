@@ -40,6 +40,13 @@
       "url": "https://github.com/ianharrigan/hscript-ex"
     },
     {
+      "name": "newgrounds",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/ZoologistArctic/newgrounds-fnf-test"
+    },
+    {
       "name": "hxCodec",
       "type": "haxelib",
       "version": "2.5.1"
