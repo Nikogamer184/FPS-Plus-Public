@@ -139,8 +139,13 @@ class PlayState extends MusicBeatState
 	private var rightHold:Bool = false;
 
 	//End of wacky input stuff===================
-
+	
+	#if demoMode
+	private var autoplay:Bool = true;
+	#else
 	private var autoplay:Bool = false;
+	#end
+	
 	private var usedAutoplay:Bool = false;
 
 	private var invuln:Bool = false;
