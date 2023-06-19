@@ -41,7 +41,7 @@
 	<classpath name="source" />
 	
 	<!-- Always enables autoplay at the start of songs for easier debugging and testing. -->
-	<define name="demoMode" if="debug" />	
+	<define name="demoMode"/>	
 
 	<assets path="assets/images" />
 	<assets path="assets/data" />
